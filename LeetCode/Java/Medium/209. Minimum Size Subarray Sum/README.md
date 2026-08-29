@@ -1,6 +1,6 @@
 # 📝 209. Minimum Size Subarray Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Sliding Window, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 69.3 MB
 
 ---
 
