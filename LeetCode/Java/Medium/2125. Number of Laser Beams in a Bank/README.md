@@ -1,6 +1,6 @@
 # 📝 2125. Number of Laser Beams in a Bank (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)
+🔗 [Problem Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/?envType=problem-list-v2&envId=math)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
