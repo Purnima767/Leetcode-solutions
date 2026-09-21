@@ -16,9 +16,11 @@ class MyCircularQueue {
         if (isFull()) {
             return false;
         }
+
         q[rear] = value;
         rear = (rear + 1) % capacity;
         size++;
+        return true;
     }
 
     public boolean deQueue() {
@@ -27,13 +29,13 @@ class MyCircularQueue {
         }
         front = (front + 1) % capacity;
         size--;
+        return true;
     }
 
     public int Front() {
         if (isEmpty()) {
             return -1;
         }
-
         return q[front];
     }
 
@@ -41,7 +43,6 @@ class MyCircularQueue {
         if (isEmpty()) {
             return -1;
         }
-
         return q[(rear - 1 + capacity) % capacity];
     }
 
