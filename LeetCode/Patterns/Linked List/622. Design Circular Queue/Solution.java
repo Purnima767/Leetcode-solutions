@@ -16,23 +16,17 @@ class MyCircularQueue {
         if (isFull()) {
             return false;
         }
-
         q[rear] = value;
         rear = (rear + 1) % capacity;
         size++;
-
-        return true;
     }
 
     public boolean deQueue() {
         if (isEmpty()) {
             return false;
         }
-
         front = (front + 1) % capacity;
         size--;
-
-        return true;
     }
 
     public int Front() {
