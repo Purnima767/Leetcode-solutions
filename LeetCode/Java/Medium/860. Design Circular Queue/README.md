@@ -8,7 +8,7 @@
 Array, Linked List, Design, Queue
 
 ### 🚀 Performance
-- **Runtime:** 96 ms
+- **Runtime:** 4 ms
 - **Memory:** 46.6 MB
 
 ---
