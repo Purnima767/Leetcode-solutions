@@ -1,6 +1,6 @@
 # 📝 622. Design Circular Queue (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/design-circular-queue)
+🔗 [Problem Link](https://leetcode.com/problems/design-circular-queue/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 

@@ -19,6 +19,7 @@ class MyCircularQueue {
         q[rear] = value;
         rear = (rear + 1) % capacity;
         size++;
+        
     }
 
     public boolean deQueue() {
