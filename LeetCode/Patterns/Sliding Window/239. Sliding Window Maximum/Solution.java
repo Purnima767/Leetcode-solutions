@@ -7,8 +7,6 @@ class Solution {
         for (int i = 0; i <= n - k; i++) {
 
             int max = nums[i];
-
-            
             for (int j = i; j < i + k; j++) {
                 max = Math.max(max, nums[j]);
             }
